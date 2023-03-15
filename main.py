@@ -15,3 +15,9 @@ with col2:
     Waaronder Java (android), Javascript, php (Joomla!), Visual Basic (Excel) en nu Python.
     """
     st.info(content)
+
+content2 = """
+Hieronder vind u een aatal apps die ik geschreven heb in Python. 
+U mag natuur ook contact met mij opnemen.
+"""
+st.write(content2)

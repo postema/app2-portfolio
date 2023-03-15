@@ -1,4 +1,4 @@
-#Portfolio App
+# Portfolio App
 simple porfolio app in python
-###made by:
+### made by:
 Hans Postema
